@@ -1,2 +1,3 @@
-# auto-devops-toolkit-8dok
-A DevOps automation toolkit for modern development workflows
+# Auto Devops Toolkit 8Dok
+
+A DevOps automation toolkit for modern development workflows.
